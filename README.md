@@ -23,12 +23,8 @@ I specialize in building scalable, high-performance backend systems and full-sta
 **Tools & Methods**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-009DDB?style=for-the-badge&logo=agile&logoColor=white)
-![3d profile contribution](profile-3d-contrib/profile-green-animate.svg)
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=khojastedev-bit&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/khojastedev-bit)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khojastedev-bit&langs_count=8&layout=compact&theme=radical)](https://github.com/khojastedev-bit/)
-   
-   
-[![Codetrace widget](https://codetrace.com/widget/khojastedev-bit)](https://codetrace.com/users/khojastedev-bit)
