@@ -16,31 +16,10 @@ I specialize in building scalable, high-performance backend systems and full-sta
 
 **Frontend**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 
 **Tools & Methods**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-009DDB?style=for-the-badge&logo=agile&logoColor=white)
-### 🚀 Highlighted Projects
-
-#### [**Project Alpha**](https://github.com/yourusername/project-alpha)
-A scalable microservices API for handling real-time data processing.
-*   `C#` `.NET Core` `Docker` `SQL Server` `Prometheus`
-*   Features: Clean Architecture, CI/CD with GitHub Actions, monitored with Grafana dashboards.
-
-#### [**Project Beta**](https://github.com/yourusername/project-beta)
-A full-stack task management application with a React frontend.
-*   `React` `.NET Core Web API` `Entity Framework` `JWT`
-*   Features: Responsive UI, secure authentication, and efficient state management.
-### 📊 GitHub Stats & Activity
-
-<!-- Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=muhamadkhojastefard&theme=dark)](https://git.io/streak-stats)
-
-<!-- Top Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadkhojastefard&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- Snake Game Contribution Graph (A fun, visual element) -->
-![Snake Animation](https://raw.githubusercontent.com/Trilokia/Trilokia/3792778081f7637a15e4a847c5a86a321d2d6e80/github-contribution-grid-snake-dark.svg)
