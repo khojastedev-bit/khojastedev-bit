@@ -34,3 +34,13 @@ A scalable microservices API for handling real-time data processing.
 A full-stack task management application with a React frontend.
 *   `React` `.NET Core Web API` `Entity Framework` `JWT`
 *   Features: Responsive UI, secure authentication, and efficient state management.
+### 📊 GitHub Stats & Activity
+
+<!-- Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=muhamadkhojastefard&theme=dark)](https://git.io/streak-stats)
+
+<!-- Top Languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadkhojastefard&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Snake Game Contribution Graph (A fun, visual element) -->
+![Snake Animation](https://raw.githubusercontent.com/Trilokia/Trilokia/3792778081f7637a15e4a847c5a86a321d2d6e80/github-contribution-grid-snake-dark.svg)
